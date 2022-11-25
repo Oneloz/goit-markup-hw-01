@@ -1,5 +1,27 @@
-body {
-    background-color: #fff;
-    color: #2a2a2a;
-    
+.logo-link {
+color: #2196F3;
 }
+.logo-link:hover
+
+
+
+.logo-header {
+color: #000;
+}
+
+
+.site-link {
+    color: #212121;
+}
+
+.site-link:hover,
+.site-link:focus {
+    color:#2196F3;
+}
+
+
+.mail-link {
+
+}
+
+
