@@ -1,25 +1,97 @@
+.header-style {
+    background-color: #ffff;
+}
 .logo-link {
-color: #000;
+    color: #2196F3;
 }
-.logo-link:hover
-
-
-
 .logo-header {
-color: #000;
+    color: #000000;
 }
+ 
 
 
 .site-link {
     color: #212121;
 }
-
 .site-link:hover,
 .site-link:focus {
-    color:#2196F3;
+    color: #2196F3;
 }
 
 
 
+.mail-link {
+    color: #2196F3;
+}
+.mail-link:hover,
+.mail-link:focus {
+    color: #2196F3;
+}
 
+
+
+.tel {
+    color: #757575;
+}
+.tel:hover {
+    color: #2196f3;
+}
+
+
+
+.section-s1 {
+    background-color: #2F303A;
+}
+.header-s1 {
+    color: #ffff;
+}
+.button-s1 {
+    background-color: #2196F3;
+}
+.button-s1 {
+    color: #ffff;
+}
+
+
+
+.header-s3 {
+    color: #212121;
+}
+.hs3-description {
+    color: #757575;
+}
+.header-s2 {
+    color: #212121;
+}
+
+
+.section-s2 {
+    background-color: #F5F4FA;
+}
+.team {
+    color: #212121;
+}
+.names {
+    color: #212121;
+}
+.name-description {
+    color: #757575;;
+}
+
+
+.footer-style {
+    background-color: #2F303A;
+}
+.logo-header-f {
+    color: #ffff;
+}
+.adress-style {
+    color: #ffff;
+}
+.mail-link-f {
+    color:  #FFFFFF99;
+}
+.tel-f {
+    color:  #FFFFFF99;
+}
 
